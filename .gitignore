@@ -1,0 +1,22 @@
+# Local .terraform directories
+**/.terraform/
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Exclude all .tfvars files, which may contain sensitive data
+*.tfvars
+*.tfvars.json
+
+# Ignore any temporary files
+*.log
+*.log.*
+*.tfstate.backup
+terraform.tfstate
+terraform.tfstate.backup
+
+# ignore .pem, .pfx and .exe files anywhere in the repository
+*.pem
+*.pfx
+*.exe
