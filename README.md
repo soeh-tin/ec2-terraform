@@ -7,9 +7,9 @@ It includes creating a key pair, a security group, and launching an EC2 instance
 
 ## 📋 Prerequisites
 
+- [Visual Studio Code](https://youtu.be/AJ55GBoixSU) installed
 - [Terraform](https://youtu.be/12p3s0gtN_U) installed
 - [AWS CLI](https://youtu.be/A1wZ3DeKX8g) installed
-- [Visual Studio Code](https://youtu.be/AJ55GBoixSU) installed
 - [TeraTerm](https://youtu.be/CyiuLCB2SBU) installed
 - AWS credentials configured with `aws configure`
 - IAM user with **EC2 permissions** (`AmazonEC2FullAccess`)
